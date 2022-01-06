@@ -1,0 +1,14 @@
+
+ Performance counter stats for 'system wide':
+
+          59968.45 msec cpu-clock                 #    2.000 CPUs utilized          
+             83594      context-switches          #    0.001 M/sec                  
+                37      cpu-migrations            #    0.001 K/sec                  
+                15      page-faults               #    0.000 K/sec                  
+   <not supported>      cycles                                                      
+   <not supported>      instructions                                                
+   <not supported>      branches                                                    
+   <not supported>      branch-misses                                               
+
+      29.987297798 seconds time elapsed
+

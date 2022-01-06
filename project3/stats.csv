@@ -1,0 +1,21 @@
+repetition, io_depth, avg_clat, 99th percentile, bandwith, context_switches, page_faults, cpu_migrations
+results/stat/repetition1/,1,623.27,1057,6174KiB/s,6681,17,11
+results/stat/repetition1/,2,530.40,979,14.3MiB/s,12123,19,8
+results/stat/repetition1/,4,506.04,988,30.1MiB/s,19823,17,14
+results/stat/repetition1/,8,651.89,5473,47.2MiB/s,33000,18,17
+results/stat/repetition2/,1,601.25,1893,6409KiB/s,6659,18,5
+results/stat/repetition2/,2,1232.55,2376,6391KiB/s,5773,18,4
+results/stat/repetition2/,4,2481.32,3982,6398KiB/s,5768,17,24
+results/stat/repetition2/,8,5033.40,7898,6332KiB/s,5625,18,3
+results/stat/repetition3/,1,607.89,1942,6348KiB/s,6419,18,2
+results/stat/repetition3/,2,1228.81,2409,6401KiB/s,5846,16,4
+results/stat/repetition3/,4,2482.95,3982,6398KiB/s,5634,17,7
+results/stat/repetition3/,8,4983.18,6587,6398KiB/s,5496,17,7
+results/stat/repetition4/,1,601.17,1926,6392KiB/s,6491,18,5
+results/stat/repetition4/,2,1231.37,2409,6392KiB/s,5624,17,4
+results/stat/repetition4/,4,2482.76,3982,6394KiB/s,5426,17,8
+results/stat/repetition4/,8,5043.32,7898,6319KiB/s,5382,17,8
+results/stat/repetition5/,1,602.43,1926,6405KiB/s,6480,18,11
+results/stat/repetition5/,2,1232.26,2376,6385KiB/s,5571,17,5
+results/stat/repetition5/,4,2500.86,4015,6348KiB/s,5439,20,5
+results/stat/repetition5/,8,4987.35,6587,6390KiB/s,5406,18,5
